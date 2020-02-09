@@ -5,4 +5,4 @@
 ### Pip Packages
 `pip install beautifulsoup4 requests`
 
-*Note:* Change shebang as needed.
+**Note:** Change shebang as needed.
